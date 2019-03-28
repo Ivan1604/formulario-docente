@@ -43,8 +43,6 @@ public class FrmDocente extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("FORMULARIO DOCENTE");
 
-        jTextField1.setText("jTextField1");
-
         jButton1.setText("Saludo");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
